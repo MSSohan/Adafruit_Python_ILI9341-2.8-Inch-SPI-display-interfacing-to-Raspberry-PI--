@@ -5,7 +5,7 @@ Python library to control an ILI9341 TFT LCD display.  Allows simple drawing on 
 
 Designed specifically to work with the Adafruit 2.8" LCD's ----> https://www.adafruit.com/products/1770
 
-Connections:::::::::::::
+Connections:::::::::::::(Updated)(Changing according to your pin setup dc and reset pins)
 =========================
 1.  https://raw.githubusercontent.com/VirusHQ/youtube_video_tutorial_codes/master/2.8_LCD_display_on_a_Raspberry_Pi_ft_ILI9341/wiring_diagram.png
 2.  https://docs.particle.io/assets/pdfs/raspberry-pi/datasheet.pdf
